@@ -1,7 +1,15 @@
 # bloxorz-game-clone
 Simple clone of the famous game bloxorz in webgl
 
- 
+## Quick start
+you need to run a local server. Open a terminal/shell/command prompt and type
+cd <path/to/files>
+python -m SimpleHTTPServer
+
+Then in your browser go to
+http://localhost:8000
+
+Enjoy the game!
 
  Table of Contents 
 1. The Game
