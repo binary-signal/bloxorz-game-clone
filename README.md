@@ -10,7 +10,7 @@ Then in your browser go to http://localhost:8000
 
 Enjoy the game!
 
- Table of Contents 
+# Table of Contents 
 1. The Game
 2. Game Controls 
 3. Game Level
